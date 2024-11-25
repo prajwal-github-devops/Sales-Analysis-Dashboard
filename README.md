@@ -28,7 +28,7 @@ Insights
 Revenue Growth: Sales increased by 15% over the last quarter.
 Top Products: Product A and Product B generated the highest revenue.
 Regional Performance: Region X accounted for the majority of sales.
-Customer Behavior: High-value customers showed a Y% retention rate.
+Customer Behavior: High-value customers showed a 30% retention rate.
 How to Access the Dashboard
 Download the .pbix file from this repository.
 Open the file in Power BI Desktop.
